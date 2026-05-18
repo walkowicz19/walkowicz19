@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Matheus Nery from Brazil, 19 years old.<br><br>- 🔭 I'm discovering manual coding and vibe coding.<br>- 📚 I'm currently learning Python, Typescript, HTML, CSS, JavaScript.<br><br>- Português -<br><br>Sou Matheus Nery, 19 anos, Brasília DF.<br><br>- 🔭 Estou descobrindo programação e IA.<br>- 📚 Atualmente estou aprendendo Python, TypeScript, HTML, CSS e JavaScript.</p>
+<p align="left">I'm Matheus Nery from Brazil, 20 years old.<br><br>- 🔭 I'm discovering manual coding and vibe coding.<br>- 📚 I'm currently learning Python, Typescript, HTML, CSS, JavaScript.<br><br>- Português -<br><br>Sou Matheus Nery, 20 anos, Brasília DF.<br><br>- 🔭 Estou descobrindo programação e IA.<br>- 📚 Atualmente estou aprendendo Python, TypeScript, HTML, CSS e JavaScript.</p>
 
 ###
 

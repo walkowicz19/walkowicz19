@@ -47,7 +47,7 @@ Information Systems student and tech content creator.
 
 - 🔭 Building developer tooling, AI agents and enterprise integrations.
 - 🦀 Exploring **Rust** for high-performance, deterministic systems.
-- 📚 Currently learning: Python, TypeScript, Rust, Ruby and the web stack.
+- 📚 Knowledge / Stack: Python, TypeScript, Rust, Ruby and the web stack.
 - 💬 Ask me about AI, automation and developer experience.
 
 🇧🇷 **Português**
@@ -57,7 +57,7 @@ Estudante de Sistemas de Informação e criador de conteúdo de tecnologia.
 
 - 🔭 Construindo ferramentas para devs, agentes de IA e integrações enterprise.
 - 🦀 Explorando **Rust** para sistemas performáticos e determinísticos.
-- 📚 Atualmente aprendendo: Python, TypeScript, Rust, Ruby e a stack web.
+- 📚 Conhecimentos: Python, TypeScript, Rust, Ruby e a stack web.
 - 💬 Pode me perguntar sobre IA, automação e experiência do desenvolvedor.
 
 <br clear="right" />
@@ -103,20 +103,6 @@ Estudante de Sistemas de Informação e criador de conteúdo de tecnologia.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=walkowicz19&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<!-- ====================== TROPHIES ====================== -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=walkowicz19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
-</div>
-
-###
-
-<!-- ====================== SNAKE (animação real) ====================== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/walkowicz19/walkowicz19/output/snake.svg" alt="snake animation" />
 </div>
 
 ###

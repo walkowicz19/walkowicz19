@@ -47,7 +47,7 @@ Information Systems student and tech content creator.
 
 - 🔭 Building developer tooling, AI agents and enterprise integrations.
 - 🦀 Exploring **Rust** for high-performance, deterministic systems.
-- 📚 Knowledge / Stack: Python, TypeScript, Rust, Ruby and the web stack.
+- 📚 Knowledge / Stack: Python, TypeScript, Rust, Ruby, Java and the web stack.
 - 💬 Ask me about AI, automation and developer experience.
 
 🇧🇷 **Português**
@@ -57,7 +57,7 @@ Estudante de Sistemas de Informação e criador de conteúdo de tecnologia.
 
 - 🔭 Construindo ferramentas para devs, agentes de IA e integrações enterprise.
 - 🦀 Explorando **Rust** para sistemas performáticos e determinísticos.
-- 📚 Conhecimentos: Python, TypeScript, Rust, Ruby e a stack web.
+- 📚 Conhecimentos: Python, TypeScript, Rust, Ruby, Java e a stack web.
 - 💬 Pode me perguntar sobre IA, automação e experiência do desenvolvedor.
 
 <br clear="right" />
@@ -75,6 +75,8 @@ Estudante de Sistemas de Informação e criador de conteúdo de tecnologia.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="42" alt="rust logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="42" alt="ruby logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo" />
   <img width="12" />

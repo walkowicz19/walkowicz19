@@ -64,6 +64,27 @@ Estudante de Sistemas de Informação e criador de conteúdo de tecnologia.
 
 ###
 
+<!-- ====================== EXPERIÊNCIA ====================== -->
+<h3 align="left">💼 Experience / Experiência</h3>
+
+###
+
+<img align="left" alt="IBM" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" />
+
+**IBM** — Intern / Estagiário
+
+🇺🇸 Working across two tracks of IBM's enterprise ecosystem:
+- 🧠 **Data & AI** — post-sales work with Watsonx, DataStage and related Data & AI tooling.
+- ⚙️ **Automation & Integration** — pre-sales work with automation and integration solutions (Aspera, IBM Concert and others).
+
+🇧🇷 Atuando em duas frentes do ecossistema enterprise da IBM:
+- 🧠 **Data & AI** — pós-vendas com Watsonx, DataStage e ferramentas de Data & AI.
+- ⚙️ **Automation & Integration** — pré-vendas com soluções de automação e integração (Aspera, IBM Concert e outras).
+
+<br clear="left" />
+
+###
+
 <!-- ====================== LINGUAGENS E FERRAMENTAS ====================== -->
 <h3 align="left">🛠 Languages and Tools / Linguagens e Ferramentas</h3>
 

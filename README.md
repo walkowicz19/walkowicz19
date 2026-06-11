@@ -69,8 +69,6 @@ Estudante de Sistemas de Informação e criador de conteúdo de tecnologia.
 
 ###
 
-<img align="left" alt="IBM" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" />
-
 **IBM** — Intern / Estagiário
 
 🇺🇸 Working across two tracks of IBM's enterprise ecosystem:

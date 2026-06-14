@@ -73,11 +73,11 @@ Estudante de Sistemas de Informação e criador de conteúdo de tecnologia.
 
 🇺🇸 Working across two tracks of IBM's enterprise ecosystem:
 - 🧠 **Data & AI** — post-sales work with Watsonx, DataStage and related Data & AI tooling.
-- ⚙️ **Automation & Integration** — pre-sales work with automation and integration solutions (Aspera, IBM Concert and others).
+- ⚙️ **Automation Integration & App Dev** — pre-sales work with automation and integration solutions (Aspera, IBM Concert and others).
 
 🇧🇷 Atuando em duas frentes do ecossistema enterprise da IBM:
 - 🧠 **Data & AI** — pós-vendas com Watsonx, DataStage e ferramentas de Data & AI.
-- ⚙️ **Automation & Integration** — pré-vendas com soluções de automação e integração (Aspera, IBM Concert e outras).
+- ⚙️ **Automation Integration & App Dev** — pré-vendas com soluções de automação e integração (Aspera, IBM Concert e outras).
 
 <br clear="left" />
 

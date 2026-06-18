@@ -120,10 +120,6 @@ Estudante de Sistemas de Informação e criador de conteúdo de tecnologia.
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=walkowicz19&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
 ###
 
 <!-- ====================== RODAPÉ ====================== -->

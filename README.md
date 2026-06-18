@@ -38,8 +38,6 @@
 
 ###
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRtZWdjN3pvcnZpZGxmdjN6NjAwejIzNmV3NmFqZ3BxdHZjMnc2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3knKct3fGqxhK/giphy.gif" />
-
 🇺🇸 **English**
 
 I'm **Matheus Nery**, 20 years old, from Brasília — Brazil 🇧🇷
